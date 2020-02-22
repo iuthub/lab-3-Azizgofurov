@@ -1,0 +1,19 @@
+.green{
+	width: auto;
+	border: 5px green solid;
+
+}
+
+.red{
+	border:5px red solid;
+}
+
+.brown{
+border: 5px #FCE355 solid;
+}
+.blue{
+	border: 5px blue solid; 
+}
+#purple{
+	border: 5px purple solid;
+}

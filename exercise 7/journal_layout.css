@@ -1,0 +1,59 @@
+.green{
+	background-color: white;
+	width: auto;
+	border: 10px white solid;
+
+}
+
+.red{
+	border:5px #A8F0F0 solid;
+	text-align: right;
+	background-color: #A8F0F0;
+	margin-bottom: 10px;
+}
+.rectangl {
+    float: left;
+    border: 5px solid blue;
+    margin-top: 10px;
+    margin-right: 7px;
+    background-color: #C2E9E9;
+}
+#Friends {
+    text-align: center;
+}
+.subtitle {
+  width: auto;
+  height: 40px;
+}
+
+.brown{
+border: 5px #FCE355 solid;
+margin-bottom: 10px;
+}
+#text1{
+	font-size: 9.5pt;
+}
+.blue{
+	background-color: #E8FBFB;
+	border: 4px #C2E9E9 solid; 
+	padding: 5px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+#purple{
+	border-bottom: 2px #245F5F dashed;
+}
+.image{
+	float: right;
+}
+body{
+
+	background-image: url(background.gif);
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.body{
+	overflow:hidden;
+}
+* *:hover{background-color: yellow;
+}

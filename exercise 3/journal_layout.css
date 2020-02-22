@@ -1,0 +1,33 @@
+.green{
+	background-color: white;
+	width: auto;
+	border: 5px green solid;
+
+}
+
+.red{
+	border:5px red solid;
+	text-align: right;
+}
+
+.brown{
+border: 5px #FCE355 solid;
+}
+.blue{
+	background-color: #E8FBFB;
+	border: 5px blue solid; 
+	padding: 5px;
+	overflow: hidden;
+}
+#purple{
+	border: 5px purple solid;
+}
+.image{
+	float: right;
+}
+body{
+
+	background-image: url(background.gif);
+	margin-left: 10%;
+	margin-right: 10%;
+}
